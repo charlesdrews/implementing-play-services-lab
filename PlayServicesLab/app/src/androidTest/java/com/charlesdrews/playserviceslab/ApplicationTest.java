@@ -1,4 +1,4 @@
-package com.charlesdrews.playserviceslesson;
+package com.charlesdrews.playserviceslab;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

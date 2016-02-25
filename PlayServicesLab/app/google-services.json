@@ -1,17 +1,17 @@
 {
   "project_info": {
-    "project_id": "playservicesexample-41f74",
-    "project_number": "1080148638172",
-    "name": "PlayServicesExample"
+    "project_id": "playserviceslab",
+    "project_number": "549854046002",
+    "name": "PlayServicesLab"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1080148638172:android:20ad5348a619cb14",
-        "client_id": "android:com.charlesdrews.playserviceslesson",
+        "mobilesdk_app_id": "1:549854046002:android:0a84b72fdf288fc3",
+        "client_id": "android:com.charlesdrews.playserviceslab",
         "client_type": 1,
         "android_client_info": {
-          "package_name": "com.charlesdrews.playserviceslesson"
+          "package_name": "com.charlesdrews.playserviceslab"
         }
       },
       "oauth_client": [],
@@ -20,7 +20,7 @@
         "analytics_service": {
           "status": 2,
           "analytics_property": {
-            "tracking_id": "UA-74281842-1"
+            "tracking_id": "UA-74281842-2"
           }
         },
         "cloud_messaging_service": {

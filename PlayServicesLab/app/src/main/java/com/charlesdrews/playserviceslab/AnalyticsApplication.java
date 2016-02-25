@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.charlesdrews.playserviceslesson;
+package com.charlesdrews.playserviceslab;
 
 import android.app.Application;
 
@@ -36,7 +36,7 @@ public class AnalyticsApplication extends Application {
         if (mTracker == null) {
             GoogleAnalytics analytics = GoogleAnalytics.getInstance(this);
             // To enable debug logging use: adb shell setprop log.tag.GAv4 DEBUG
-            mTracker = analytics.newTracker("UA-74281842-1");
+            mTracker = analytics.newTracker("UA-74281842-2");
         }
         return mTracker;
     }
